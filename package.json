@@ -1,0 +1,22 @@
+{
+  "name": "react-velocitytransitiongroup",
+  "version": "1.0.3",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XuHaoJun/node-react-velocitytransitiongroup"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XuHaoJun",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=0.13",
+    "velocity-animate": ">=1.0.0"
+  },
+  "devDependencies": {
+    "react-tools": "^0.13.3"
+  }
+}
